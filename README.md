@@ -28,4 +28,4 @@ This dashboard provides insights into hiring trends, skill demand levels, indust
 ### Hiring Trend by Experience (Line Chart)
 - Analyzes how hiring varies based on years of experience.
 ## Dashboard Preview
-<img width="1124" height="634" alt="Screenshot 2026-02-27 205902" src="https://github.com/user-attachments/assets/a3e3cfc9-be48-45b2-901f-3815d09d7ee1" />
+<img width="1126" height="633" alt="Screenshot 2026-02-28 233715" src="https://github.com/user-attachments/assets/f17d591c-d2a2-447b-8cae-d34a004baf3e" />
