@@ -19,6 +19,20 @@ This dashboard provides insights into hiring trends, skill demand levels, indust
 - 6 Skill Categories
 - 500 Total Job Postings
 - 909.14K Average Salary
-## Visualizations Included
-Candidate Hiring Status
+## Visualizations Included (Donut Chart)
+### Candidate Hiring Status
 - Donut chart showing Hired vs Not Hired candidates.
+### Skill Category Demand Analysis (Bar Chart)
+- Programming & Analytics → High demand
+- Communication & Marketing → Moderate demand
+### Hiring Trend by Experience (Line Chart)
+- Analyzes how hiring varies based on years of experience.
+## Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Analytical Thinking
+## Dashboard Preview
+<img width="1124" height="634" alt="Screenshot 2026-02-27 205902" src="https://github.com/user-attachments/assets/a3e3cfc9-be48-45b2-901f-3815d09d7ee1" />
