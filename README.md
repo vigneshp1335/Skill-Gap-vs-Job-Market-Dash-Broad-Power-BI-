@@ -3,11 +3,11 @@
 The **Skill Gap vs Job Market Dashboard** is an interactive data analytics project designed to analyze the mismatch between candidate skills and job market demand.
 This dashboard provides insights into hiring trends, skill demand levels, industry job distribution, and salary patterns.
 ## Tools & Technologies Used
-- Power BI / Python / Excel (Update with your tool)
+- Power BI / Excel (Update with your tool)
 - Data Cleaning & Transformation
 - Data Modeling
 - Interactive Dashboard Design
-- DAX / Pandas (if applicable)
+- DAX
 ## Dashboard Features
 ### Interactive Filters
 - Industry
